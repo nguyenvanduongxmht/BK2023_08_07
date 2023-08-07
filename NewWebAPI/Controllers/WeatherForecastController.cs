@@ -29,4 +29,13 @@ public class WeatherForecastController : ControllerBase
         })
         .ToArray();
     }
+
+     [HttpGet(Name = "GetName")]
+    public string GetName()
+    {
+        return "Nguyễn Văn Dương";
+    }
+
+
+    
 }
