@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {}
+    "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {
+    "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
+        "projectUniqueName": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
         "projectName": "DotNetCoreFirstApplication",
-        "projectPath": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
+        "projectPath": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
         "packagesPath": "C:\\Users\\students\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\obj\\",
+        "outputPath": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\students\\AppData\\Roaming\\NuGet\\NuGet.Config"
