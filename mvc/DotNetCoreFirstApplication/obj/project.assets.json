@@ -11607,11 +11607,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\nguye\\Documents\\BK2023_08_07\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
       "projectName": "DotNetCoreFirstApplication",
       "projectPath": "C:\\Users\\nguye\\Documents\\BK2023_08_07\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nguye\\Documents\\BK2023_08_07\\mvc\\DotNetCoreFirstApplication\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
+      "projectName": "DotNetCoreFirstApplication",
+      "projectPath": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
+      "packagesPath": "C:\\Users\\students\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\obj\\",
+>>>>>>> 9a533e6d9cf95a812a5a8278466d96fc1cb62699
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",

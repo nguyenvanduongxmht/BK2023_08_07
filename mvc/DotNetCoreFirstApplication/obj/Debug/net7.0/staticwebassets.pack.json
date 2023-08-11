@@ -9,7 +9,15 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\nguye\\Documents\\BK2023_08_07\\mvc\\DotNetCoreFirstApplication\\wwwroot\\favicon.ico",
+=======
+      "Id": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\wwwroot\\css\\w3.css",
+      "PackagePath": "staticwebassets\\css\\w3.css"
+    },
+    {
+      "Id": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\wwwroot\\favicon.ico",
+>>>>>>> 9a533e6d9cf95a812a5a8278466d96fc1cb62699
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {

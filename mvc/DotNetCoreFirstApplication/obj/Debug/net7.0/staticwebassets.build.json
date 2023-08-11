@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "+JeKYr9M9bdvjSgvEGxkfqrMqd/CtSNv2qNInLe4wOQ=",
+=======
+  "Hash": "yGDpK0Ue0x+Ijx2uPmwuaLPYZAc18tJ5UfzLnNhiaKg=",
+>>>>>>> 9a533e6d9cf95a812a5a8278466d96fc1cb62699
   "Source": "DotNetCoreFirstApplication",
   "BasePath": "_content/DotNetCoreFirstApplication",
   "Mode": "Default",
@@ -68,7 +72,28 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\nguye\\Documents\\BK2023_08_07\\mvc\\DotNetCoreFirstApplication\\wwwroot\\favicon.ico",
+=======
+      "Identity": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\wwwroot\\css\\w3.css",
+      "SourceId": "DotNetCoreFirstApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\wwwroot\\",
+      "BasePath": "_content/DotNetCoreFirstApplication",
+      "RelativePath": "css/w3.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\w3.css"
+    },
+    {
+      "Identity": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\wwwroot\\favicon.ico",
+>>>>>>> 9a533e6d9cf95a812a5a8278466d96fc1cb62699
       "SourceId": "DotNetCoreFirstApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nguye\\Documents\\BK2023_08_07\\mvc\\DotNetCoreFirstApplication\\wwwroot\\",
