@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {}
+    "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {}
   },
   "projects": {
-    "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {
+    "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
+        "projectUniqueName": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
         "projectName": "DotNetCoreFirstApplication",
-        "projectPath": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
+        "projectPath": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\DotNetCoreFirstApplication.csproj",
         "packagesPath": "C:\\Users\\students\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\obj\\",
+        "outputPath": "C:\\Users\\students\\Downloads\\mvc\\DotNetCoreFirstApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\students\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,32 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
