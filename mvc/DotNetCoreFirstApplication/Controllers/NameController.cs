@@ -24,9 +24,10 @@ public class NameController : Controller
     }
 
     [HttpPost]
-    public IActionResult GetName(string abc)
+    public IActionResult GetName(student std)
     {
-         ViewBag.SomeProperty =abc;
+         ViewBag.thongbao =std.FullName + std.NoiSinh;
+
         return View();
     }
 
